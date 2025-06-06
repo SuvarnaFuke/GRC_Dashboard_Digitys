@@ -1,5 +1,3 @@
-# GRC_Dashboard_Digitys
-
 # GRC Dashboard React App
 
 A responsive, modern UI/UX dashboard for Governance, Risk, and Compliance (GRC), built with React.js and Recharts.
